@@ -1,6 +1,6 @@
 # Output Bricks 🧱
 
-**A minimalist productivity framework for reliably tracking meaningful output and building unstoppable momentum.**
+**A minimalist productivity framework for reliably tracking meaningful output and building momentum.**
 
 ---
 
