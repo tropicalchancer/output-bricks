@@ -1,3 +1,5 @@
+![Bricks Logo](assets/bricks-logo.png)
+
 # Output Bricks 🧱
 
 **A minimalist productivity framework for reliably tracking meaningful output and building momentum.**

@@ -1,3 +1,5 @@
+![Bricks Logo](assets/bricks-logo.png)
+
 # 🧱 Process for Brick Design
 
 A clear, step-by-step workflow for consistently designing high-integrity Bricks using the **Output Brick Framework**.  
@@ -76,14 +78,15 @@ When I describe a potential Brick, your response must explicitly:
 - **Clearly restate** the Brick in a refined, explicit, and outcome-focused manner.
 - **Prompt me explicitly** with follow-up questions to help me clearly visualize and define what explicit completion looks like if it's not already fully clear.
 - **Proactively prompt me** to surface potential high-friction or anxiety-inducing points that might prevent completion.
-- **Ask explicit clarifying follow-up questions** if these friction points aren’t yet fully clear or haven't been articulated.
+- **Ask explicit clarifying follow-up questions** if these friction points aren't yet fully clear or haven't been articulated.
 - **Once I've clarified these friction points**, explicitly restate them clearly in your response.
 - **Explicitly break down** each surfaced friction point into manageable mini-steps (**Mini-Bricks**) and **clearly schedule** when to complete each mini-step.
 - **Provide a clear grade** on the quality of my original Brick as I presented it, and explicitly explain why.
 
 🛠️ Let's Begin:
 
-Here's the Brick I want your clear help designing: [add brick design sketch]
+Here's the Brick I want your clear help designing:  
+[add brick design sketch]
 
 
 ---
