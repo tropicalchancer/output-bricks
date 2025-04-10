@@ -13,21 +13,21 @@ Steps (in brief):
 
 Before engaging with Brickworks AI, explicitly sketch your Brick using this **Brick Design Template**:
 
-### Brick Design Template *(fill this out first!)*
+Brick Design Template *(fill this out first!)*
 
 🧱 Brick Title:  
 [Explicit, clear, outcome-oriented title here]
 
-🎯 Clearly Defined Outcome:  
+Clearly Defined Outcome:  
 [Explicitly state exactly what completed success looks like.]
 
-⚠️ Known or Anticipated Friction Points:  
+Known or Anticipated Friction Points:  
 [List clearly any high-friction, anxiety-inducing parts of this Brick.]
 
-🧩 Initial Breakdown (Mini-Bricks to address friction):  
+Initial Breakdown (Mini-Bricks to address friction):  
 [Quickly sketch some initial ideas to directly address friction points.]
 
-❓ Unclear or Open Questions:  
+Unclear or Open Questions:  
 [List clearly what you haven't figured out yet, or what you explicitly need help refining.]
 
 
