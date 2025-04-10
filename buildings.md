@@ -1,3 +1,5 @@
+![Buildings Logo](assets/buildings-logo.png)
+
 # 🏢 Buildings: Clearly Define What Your Bricks Build Towards
 
 **Buildings** are clear, larger outcomes toward which your individual **Bricks** explicitly contribute. This concept clearly integrates into the **Output Brick Framework**, ensuring that your productivity efforts have a purposeful and clearly articulated direction.
