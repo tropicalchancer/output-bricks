@@ -1,100 +1,119 @@
-🎲 Urban Planner: The Productivity Game
-Build your ideal city by completing real-world tasks ("Bricks") toward clear outcomes ("Buildings") within neighborhoods ("Urban Plans").
+# 🎲 Urban Planner: The Productivity Game
 
-🌆 Game Objective
+*Build your ideal city by completing real-world tasks ("Bricks") toward clear outcomes ("Buildings") within neighborhoods ("Urban Plans").*
+
+---
+
+## 🌆 Game Objective
+
 Build a thriving, well-balanced city by consistently completing Bricks, constructing Buildings, and growing your Neighborhoods.
 
-🎯 How to Play
-🗺️ Set Up Your City (Urban Plans)
-Create your personal city with these Neighborhoods (or customize your own):
+---
 
-💰 Financial District
+## 🎯 How to Play
 
-🏢 Business Center
+### 🗺️ Set Up Your City (Urban Plans)
 
-🌳 Wellness Park
+Create your personal city using these Neighborhoods, or customize your own:
 
-🏘️ Family Village
+- 💰 **Financial District**
+- 🏢 **Business Center**
+- 🌳 **Wellness Park**
+- 🏘️ **Family Village**
+- 🎨 **Arts & Culture District**
+- 🏡 **Residential Zone**
+- 🌍 **Civic Center**
 
-🎨 Arts & Culture District
+### 🏗️ Define Your Buildings (Outcomes)
 
-🏡 Residential Zone
+For each Neighborhood, set clear, achievable Buildings with explicit outcomes. Each completed Building earns points and expands your city.
 
-🌍 Civic Center
+**Examples:**
 
-🏗️ Define Your Buildings (Outcomes)
-For each Neighborhood, set clear, achievable Buildings with explicit outcomes. Each completed Building earns you points and expands your city.
+| Neighborhood         | Example Building                      | Points 🏅 |
+|----------------------|---------------------------------------|-----------|
+| 💰 Financial District | Save $20,000 emergency fund           | 100 pts   |
+| 🌳 Wellness Park      | Complete a half-marathon              | 150 pts   |
+| 🏢 Business Center    | Promotion to Senior Manager           | 200 pts   |
 
-Examples:
+*(Adjust points based on personal importance or difficulty.)*
 
-Neighborhood	Example Building	Points 🏅
-💰 Financial District	Save $20,000 emergency fund	100 pts
-🌳 Wellness Park	Complete a half-marathon	150 pts
-🏢 Business Center	Promotion to Senior Manager	200 pts
-(Adjust points based on your personal importance or difficulty.)
+### 🧱 Complete Bricks to Build
 
-🧱 Complete Bricks to Build
-Bricks are your clearly defined daily or weekly tasks that explicitly help construct your Buildings.
+Bricks are clearly defined daily or weekly tasks that explicitly help construct your Buildings.
 
-Scoring Bricks:
+**Scoring Bricks:**
 
-Each completed Brick: 5 points
+- Each completed Brick: **5 points**
+- Every 5 Bricks completed: **Bonus +10 points**
+- Completing all Bricks in a Building: **Building points** (see above)
 
-Every 5 Bricks completed: Bonus +10 points
+**Special Brick Bonuses:**
 
-Completing all Bricks in a Building: Building points (see above)
+- Clearly high-friction or challenging Brick: **+5 extra points**
+- Brick explicitly supporting multiple Buildings: **+5 extra points**
 
-Special Brick Bonuses:
+---
 
-Clearly high-friction or challenging Brick: +5 extra points
+## 📈 Scoring & Levels
 
-Brick explicitly supporting multiple Buildings: +5 extra points
+Track your points in a simple score sheet:
 
-📈 Scoring & Levels
-Track your points clearly in a simple score sheet:
+| Action                             | Points 🏅     |
+|------------------------------------|---------------|
+| Brick completed ✅                  | 5 pts         |
+| Every 5 Bricks completed 🎉         | Bonus +10 pts |
+| High-friction Brick overcome ⚡️     | Bonus +5 pts  |
+| Multi-Building Brick 🌟             | Bonus +5 pts  |
+| Building completed 🏗️              | Building value|
 
-Action	Points 🏅
-Brick completed ✅	5 pts
-Every 5 Bricks completed 🎉	Bonus +10 pts
-High-friction Brick overcome ⚡️	Bonus +5 pts
-Multi-Building Brick 🌟	Bonus +5 pts
-Building completed 🏗️	Building value
-Example Monthly Scorecard:
+### Example Monthly Scorecard:
 
-Completed this month	Points Earned 🏅
-15 Bricks	75 pts
-Bonus (5 Bricks x3)	30 pts
-2 High-friction Bricks	10 pts
-1 Multi-Building Brick	5 pts
-1 Building (half-marathon complete)	150 pts
-Total Monthly Points	270 pts 🎉
-🚀 Levels & Rewards
+| Completed this month                | Points Earned 🏅|
+|-------------------------------------|-----------------|
+| 15 Bricks                           | 75 pts          |
+| Bonus (5 Bricks x3)                 | 30 pts          |
+| 2 High-friction Bricks              | 10 pts          |
+| 1 Multi-Building Brick              | 5 pts           |
+| 1 Building (half-marathon complete) | 150 pts         |
+| **Total Monthly Points**            | **270 pts** 🎉  |
+
+---
+
+## 🚀 Levels & Rewards
+
 Set clear, motivational milestones and fun personal rewards as your city grows:
 
-Level	Points Needed	Reward Ideas 🎁
-🏘️ Village	100 pts	Treat yourself (small gift)
-🌇 Town	250 pts	Day off, nice dinner
-🏙️ City	500 pts	Weekend getaway
-🌃 Metropolis	1000 pts	Major reward (vacation?)
-(Customize levels and rewards explicitly to your motivation.)
+| Level         | Points Needed | Reward Ideas 🎁               |
+|---------------|---------------|-------------------------------|
+| 🏘️ Village   | 100 pts       | Treat yourself (small gift)   |
+| 🌇 Town       | 250 pts       | Day off, nice dinner          |
+| 🏙️ City       | 500 pts       | Weekend getaway               |
+| 🌃 Metropolis | 1000 pts      | Major reward (vacation?)      |
 
-🎮 Advanced Mode (Optional)
-Multiplayer: Challenge friends to build their cities, comparing monthly scores.
+*(Customize levels and rewards explicitly to your motivation.)*
 
-Mayor's Log: Keep a playful journal documenting your city’s growth and reflecting on progress.
+---
 
-City Council Reviews: Monthly reviews where you (or trusted friends) clearly review city status and suggest new Buildings or improvements.
+## 🎮 Advanced Mode (Optional)
 
-🗓️ Weekly & Monthly Rituals
-Weekly City Planner: Schedule Bricks explicitly aligned to Buildings.
+- **Multiplayer:** Challenge friends to build their cities, comparing monthly scores.
+- **Mayor's Log:** Keep a playful journal documenting your city’s growth and reflecting on progress.
+- **City Council Reviews:** Monthly reviews where you (or trusted friends) clearly review city status and suggest new Buildings or improvements.
 
-Monthly City Council: Review your city's growth, celebrate progress, and clearly plan next month's Buildings and Bricks.
+---
 
-✅ How to Start Now
-Clearly name your city and define Neighborhoods.
+## 🗓️ Weekly & Monthly Rituals
 
-Set explicit Buildings (outcomes) and point values.
+- **Weekly City Planner:** Schedule Bricks explicitly aligned to Buildings.
+- **Monthly City Council:** Review your city's growth, celebrate progress, and clearly plan next month's Buildings and Bricks.
 
-Immediately create your first Bricks to begin building your city!
+---
+
+## ✅ How to Start Now
+
+1. Clearly name your city and define Neighborhoods.
+2. Set explicit Buildings (outcomes) and point values.
+3. Immediately create your first Bricks to begin building your city!
 
 Enjoy becoming the master urban planner of your own productive life—brick by brick! 🧱🌆🎲
