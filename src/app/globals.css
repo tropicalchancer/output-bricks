@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 240, 242, 245;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  background: linear-gradient(
+    to bottom,
+    rgb(var(--background-start-rgb)),
+    rgb(var(--background-end-rgb))
+  );
+  min-height: 100vh;
+  color: rgb(var(--foreground-rgb));
+}
+
+.building-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.brick {
+  transition: all 0.2s ease-in-out;
+}
+
+.brick:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+}
+
+.completed {
+  opacity: 0.8;
+  background-color: #f0fdf4;
+}
+
+@layer components {
+  .card {
+    @apply bg-white rounded-xl shadow-lg p-6 transition-all;
+  }
+
+  .card:hover {
+    @apply shadow-xl;
+  }
+
+  .button {
+    @apply px-4 py-2 text-sm font-medium rounded-lg transition-colors;
+  }
+
+  .button-primary {
+    @apply button bg-blue-500 text-white hover:bg-blue-600;
+  }
+
+  .button-success {
+    @apply button bg-green-500 text-white hover:bg-green-600;
+  }
+
+  .input {
+    @apply w-full p-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500;
+  }
+
+  .badge {
+    @apply px-2 py-0.5 text-xs font-medium rounded-full;
+  }
+
+  .badge-yellow {
+    @apply badge bg-yellow-100 text-yellow-800;
+  }
+
+  .badge-purple {
+    @apply badge bg-purple-100 text-purple-800;
+  }
+} 
