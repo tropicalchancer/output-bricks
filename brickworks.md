@@ -1,4 +1,3 @@
-![Bricks Logo](assets/bricks-logo.png)
 
 # 🧱 Process for Brick Design
 
