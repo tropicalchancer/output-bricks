@@ -6,7 +6,7 @@
 
 ---
 
-## 📦 What is an Output Brick?
+## What is an Output Brick?
 
 An **Output Brick** is a discrete, clearly defined unit of meaningful work—completed, tangible, and measurable, just like running a mile or finishing a book.
 
@@ -14,7 +14,7 @@ Bricks accumulate daily, forming momentum toward consistent, prolific output.
 
 ---
 
-## ✅ Brick Criteria
+## Brick Criteria
 
 To qualify as an Output Brick, an action must be:
 
@@ -31,7 +31,7 @@ To qualify as an Output Brick, an action must be:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 Create your own simple daily log (`output-bricks.md`):
 
