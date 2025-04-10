@@ -1,6 +1,11 @@
 # 🧱 Meta-Process for Brick Design
 
-A clear, step-by-step workflow for consistently designing high-integrity Bricks using the **Output Brick Framework**.
+A clear, step-by-step workflow for consistently designing high-integrity Bricks using the **Output Brick Framework**.  
+
+Steps (in brief)  
+1. Do an initial Brick sketch
+2. Go to Brickworks AI for refinement
+3. Log well-designed brick into your system
 
 ---
 
@@ -42,19 +47,7 @@ Instruct Brickworks AI explicitly:
 
 ---
 
-## ✍️ Step 3: User Refinement (with AI Assistance)
-
-Iterate explicitly with Brickworks AI until:
-
-- Your Brick clearly has a refined, explicit title and clear completion criteria.
-- Friction points have been clearly surfaced and explicitly addressed.
-- Mini-Bricks are explicitly broken down and clearly scheduled or logged.
-
-Brickworks AI explicitly provides a **grade and rationale** for your Brick design quality.
-
----
-
-## 📥 Step 4: Log and Schedule Brick
+## 📥 Step 3: Log and Schedule Brick
 
 Immediately after refining your Brick:
 
